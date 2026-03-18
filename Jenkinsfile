@@ -10,7 +10,7 @@ pipeline {
         
         stage('Desplegar en Tomcat (Deploy)') {
             steps {
-                sh 'cp target/mi-app.war /var/lib/tomcat10/webapps/mi-app.war'
+                sh 'cp target/*.war /var/lib/tomcat10/webapps/jenkinsProyecto.war'
             }
         }
     }
