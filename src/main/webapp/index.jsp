@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Despliegue CI/CD</title>
+    <title>Despliegue CI/CD Prueba despliegue</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
         .success { color: #4CAF50; }
